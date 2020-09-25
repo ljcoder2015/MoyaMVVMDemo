@@ -1,0 +1,6 @@
+framework module Pods_MoyaMVVMDemo {
+  umbrella header "Pods-MoyaMVVMDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
